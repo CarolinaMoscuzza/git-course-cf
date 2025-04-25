@@ -7,4 +7,7 @@ git -A
 git --a
 git log
 git status
-
+git stash 
+git stash list
+git stash apply
+git stash clear
